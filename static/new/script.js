@@ -1,0 +1,1 @@
+console.log('Hi \nIm crazy \nBanana is my name')
